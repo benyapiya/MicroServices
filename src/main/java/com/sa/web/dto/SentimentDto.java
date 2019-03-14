@@ -22,7 +22,7 @@ public class SentimentDto {
         this.sentence = sentence;
     }
 
-    public float getPolarity() {
+    public String getPolarity() {
         return polarity;
     }
 
