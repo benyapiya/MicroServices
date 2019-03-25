@@ -12,5 +12,5 @@
 $ docker run -d -p 8080:8080 -e SA_LOGIC_API_URL='http://<container_ip or docker machine ip>:5050' $DOCKER_USER_ID/bp-microservice  
 ```
 
-## Pushing the container
+## Pushing the container..
 ` $ docker push $DOCKER_USER_ID/bp-microservice `
